@@ -107,6 +107,6 @@ The goal is to help HR teams take proactive actions to improve employee retentio
 ## Contact
 
 **Kaushalya Rathnayake**
-Aspiring Software Engineer | ML Enthusiast
+Software Engineer with growing focus on Machine Learning
 GitHub: [https://github.com/KaushalyaDasanayake](https://github.com/KaushalyaDasanayake)
 LinkedIn: https://www.linkedin.com/in/kaushalya-rathnayake-d/
